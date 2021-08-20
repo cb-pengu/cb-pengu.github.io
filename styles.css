@@ -1,5 +1,6 @@
 .row {
 	position: center;
+	background-color: color.blue;
 }
 
 .card {
